@@ -247,7 +247,7 @@ OrionLib:Init()
 
 --Second tab
 local Tab = Window:MakeTab({
-    Name = "Soon...",
+    Name = "Player",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
